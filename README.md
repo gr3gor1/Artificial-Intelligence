@@ -1,2 +1,2 @@
 # AI Begginer Projects
- ECE NTUA Assignments in the A.I. course.
+ Assignments that had to be completed in order to complete the course of Artificial Intlligence in ECE NTUA.
